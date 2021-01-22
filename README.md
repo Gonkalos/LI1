@@ -1,3 +1,5 @@
+Game based on the original arcade game Tank.
+
 How to run:
 ```
 sh executable.sh
